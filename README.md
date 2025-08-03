@@ -6,8 +6,8 @@ This project showcases a Convolutional Neural Network (CNN) built with TensorFlo
 
 ## 📂 Project Files
 
-* **[Jupyter Notebook]([DigitRecognition (1).ipynb](https://github.com/navyyshukla/DigitRecognition/blob/main/DigitRecognition%20(1).ipynb)):** Contains the complete Python code, model training process, data visualizations, and final results.
-* **[Project Report](Project Report_ Handwritten Digit Classification Using MNIST and Deep Learning (1).pdf):** A detailed document covering the project's background, methodology, model architecture, and in-depth analysis of the outcomes.
+* **[Jupyter Notebook](https://github.com/navyyshukla/DigitRecognition/blob/main/DigitRecognition%20(1).ipynb):** Contains the complete Python code, model training process, data visualizations, and final results.
+* **[Project Report](https://github.com/navyyshukla/DigitRecognition/blob/main/Project%20Report_%20Handwritten%20Digit%20Classification%20Using%20MNIST%20and%20Deep%20Learning%20(1).pdf)** A detailed document covering the project's background, methodology, model architecture, and in-depth analysis of the outcomes.
 
 ---
 
